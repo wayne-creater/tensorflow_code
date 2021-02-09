@@ -1,2 +1,2 @@
 # tensorflow_code
-python,tensorflow,self_learn,
+ a bunch of machine learning examples using tensorflow2
